@@ -1,4 +1,4 @@
 # med
 <p align="center">
-  <img src="./183125905_4513833125312735_4678620306554856676_n.jpg" alt="ngntd:v">
+  <img src="./IMG-20201227-WA0774.jpg" alt="ngntd:v">
 </p>
